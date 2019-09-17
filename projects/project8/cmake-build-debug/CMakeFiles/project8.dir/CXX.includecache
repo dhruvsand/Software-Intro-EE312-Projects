@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dhruvsandesara/Desktop/sem3/ee312/projects/project8/StringPlusPlus.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+vector
+-
+string
+-
+StringPlusPlus.h
+/Users/dhruvsandesara/Desktop/sem3/ee312/projects/project8/StringPlusPlus.h
+
+/Users/dhruvsandesara/Desktop/sem3/ee312/projects/project8/StringPlusPlus.h
+string
+-
+vector
+-
+
+/Users/dhruvsandesara/Desktop/sem3/ee312/projects/project8/main.cpp
+iostream
+-
+StringPlusPlus.h
+/Users/dhruvsandesara/Desktop/sem3/ee312/projects/project8/StringPlusPlus.h
+
